@@ -1,5 +1,4 @@
 # Random Character Generator - Python Practice
-Random character generator implemented using python
 
 ## Requirements
 
