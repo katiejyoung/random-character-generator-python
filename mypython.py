@@ -14,8 +14,6 @@ def randomChars():
     
     return myString
 
-
-
 def main():
     ## Randomly generate three char strings
     for x in range(1, 4):
